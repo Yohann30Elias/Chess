@@ -1,2 +1,2 @@
 # Chess
-My Own Chess Game
+My Own Chess Game in Java
